@@ -122,7 +122,3 @@ app.delete('/docentes/:id', (req, res) => {
 app.listen(3001, () => {
     console.log('servidor backend corriendo desde el puerto 3001');
 })
-
-
-
-
